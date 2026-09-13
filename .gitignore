@@ -1,0 +1,10 @@
+# Baze i teški podaci
+data/
+*.csv
+*.joblib
+
+# Okruženje i keš
+.venv/
+venv/
+__pycache__/
+.vscode/
