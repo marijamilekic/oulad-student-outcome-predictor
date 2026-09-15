@@ -1,5 +1,4 @@
 # Baze i teški podaci
-data/
 *.csv
 *.joblib
 
@@ -7,4 +6,5 @@ data/
 .venv/
 venv/
 __pycache__/
+*.pyc
 .vscode/
